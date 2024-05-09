@@ -59,11 +59,11 @@
 1. Mirrored User-interactions across all devices.
 2. Customizable preview layout to suit all your needs.
 3. One handy elements inspector for all devices in preview.
-4. 30+ built-in device profiles with option to add custom devices.
-5. One-click screenshot all your devices.
-6. Hot reloading supported for developers.
+4. 30+ built-in device profiles with the option to add custom devices.
+5. One-click screenshots on all your devices.
+6. Hot reloading is supported for developers.
 
-Please visit the website to know more about the application - https://responsively.app
+Please visit the website to learn more about the application - https://responsively.app
 
 ## Download
 
@@ -93,7 +93,7 @@ Linux users using an RPM Package Manager can use `rpm`
 sudo rpm -i https://github.com/responsively-org/responsively-app/releases/download/v[VERSION]/Responsively-App-[VERSION].x86_64.rpm
 ```
 
-otherwise download an AppImage from [the releases page](https://github.com/responsively-org/responsively-app/releases)
+otherwise, download an AppImage from [the releases page](https://github.com/responsively-org/responsively-app/releases)
 
 Follow us on Twitter for future updates - [![Twitter Follow](https://img.shields.io/twitter/follow/ResponsivelyApp?style=social)](https://twitter.com/ResponsivelyApp)
 
@@ -268,4 +268,4 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
